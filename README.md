@@ -20,18 +20,13 @@ Provide an executive view of vendor performance by integrating sales, purchases,
 - **Slow-moving inventory** highlighted for obsolescence risk; fast-moving for replenishment alignment.
 
 ## Visualizations
-Exported figures (if present in the workspace):
+Exported figures 
 - `DistributionPolts.png`
 - `Boxplots.png`
 - `correlationHeadmap.png`
 - `TopVendors.png`
 - `pareto.png`
 
-
-> You can embed any of the above in reports:
-> ```markdown
-> ![Top Vendors](TopVendors.png)
-> ```
 
 ## KPIs Calculated
 - **Gross Profit** and **Gross Margin** by vendor and brand  
